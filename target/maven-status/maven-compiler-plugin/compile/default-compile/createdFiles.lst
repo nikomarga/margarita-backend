@@ -1,0 +1,10 @@
+com\margarita\margarita_backend\controller\ProductController.class
+com\margarita\margarita_backend\ayudas\Categoria.class
+com\margarita\margarita_backend\ayudas\MensajeError.class
+com\margarita\margarita_backend\repository\ProductRepository.class
+com\margarita\margarita_backend\service\ProductService.class
+com\margarita\margarita_backend\model\mapas\IMapaProducto.class
+com\margarita\margarita_backend\model\dtos\ProductoGenericoDTO.class
+com\margarita\margarita_backend\model\mapas\IMapaProductoImpl.class
+com\margarita\margarita_backend\MargaritaBackendApplication.class
+com\margarita\margarita_backend\model\Product.class
