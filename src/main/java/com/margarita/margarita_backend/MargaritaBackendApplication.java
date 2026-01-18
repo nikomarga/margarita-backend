@@ -9,5 +9,4 @@ public class MargaritaBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MargaritaBackendApplication.class, args);
 	}
-
 }
