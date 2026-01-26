@@ -1,4 +1,4 @@
-package com.margarita.margarita_backend.config;
+/*package com.margarita.margarita_backend.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
@@ -14,4 +14,4 @@ public class CorsConfig implements WebMvcConfigurer {
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS");
     }
 }
-
+*/
